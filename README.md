@@ -77,18 +77,7 @@
 ![Canva](https://img.shields.io/badge/Canva-020e10?style=flat-square&logo=canva&logoColor=00eeff)
 
 </div>
-
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=rjuarezt&show_icons=true&hide_border=true&bg_color=030d1a&title_color=00d4ff&icon_color=00eeff&text_color=a0d8f0&rank_icon=github"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjuarezt&layout=compact&hide_border=true&bg_color=030d1a&title_color=00d4ff&text_color=a0d8f0"/>
-
-</div>
-
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=rjuarezt&hide_border=true&background=030d1a&ring=00bfff&fire=00eeff&currStreakLabel=a0d8f0&sideLabels=005f8a&dates=0a4060&sideNums=00d4ff&currStreakNum=00eeff"/>
