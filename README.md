@@ -1,7 +1,9 @@
 <!-- BANNER - generado en https://capsule-render.vercel.app -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030d1a,50:0a3060,100:00bfff&height=180&section=header&text=rjuarezt&fontSize=50&fontColor=00eeff&fontAlignY=38&desc=Full%20Stack%20Dev%20%7C%20VoIP%20%7C%20Linux%20%7C%20Anime%20%F0%9F%90%97&descSize=16&descAlignY=60&descColor=7ad8ff" width="100%"/>
+
 </div>
+
 <!-- AVATAR + NOMBRE -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Rodolfo+Juarez+%F0%9F%90%97;Full+Stack+Developer;VoIP+%7C+Asterisk+%7C+Kamailio;Linux+SysAdmin;Modo+Inosuke%3A+ACTIVO+%E2%9A%94%EF%B8%8F" alt="Typing SVG"/>
@@ -9,6 +11,7 @@
 </div>
 
 <br/>
+
 <!-- BIO BADGES -->
 <div align="center">
 ![FRONTEND](https://img.shields.io/badge/FRONTEND-%23030d1a.svg?style=for-the-badge&logoColor=00eeff)
