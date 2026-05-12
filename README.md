@@ -77,14 +77,6 @@
 ![Canva](https://img.shields.io/badge/Canva-020e10?style=flat-square&logo=canva&logoColor=00eeff)
 
 </div>
----
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=rjuarezt&hide_border=true&background=030d1a&ring=00bfff&fire=00eeff&currStreakLabel=a0d8f0&sideLabels=005f8a&dates=0a4060&sideNums=00d4ff&currStreakNum=00eeff"/>
-
-</div>
-
----
 
 ## 🐗 Contacto
 
