@@ -26,28 +26,16 @@
 
 ---
 
-## Bases de Datos
+## HERRAMIENTA DE TECNOLOGIA
 
 <div align="center">
   
-![Supabase](https://img.shields.io/badge/Supabase-020e0a?style=flat-square&logo=supabase&logoColor=00eeff)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-030d1a?style=flat-square&logo=postgresql&logoColor=00bfff)
 ![MySQL](https://img.shields.io/badge/MySQL-0a0800?style=flat-square&logo=mysql&logoColor=ffcc00)
-![MongoDB](https://img.shields.io/badge/MongoDB-020e0a?style=flat-square&logo=mongodb&logoColor=00cc66)
-![Redis](https://img.shields.io/badge/Redis-1a0505?style=flat-square&logo=redis&logoColor=ff6060)
-
-</div>
-
-## Telefonía & VoIP
-
-<div align="center">
-
 ![Asterisk](https://img.shields.io/badge/Asterisk-1a0505?style=flat-square&logo=asterisk&logoColor=ff6060)
 ![ViciDial](https://img.shields.io/badge/ViciDial-1a0505?style=flat-square&logoColor=ff6060)
-![FreePBX](https://img.shields.io/badge/FreePBX-1a0505?style=flat-square&logoColor=ff6060)
 ![SIP](https://img.shields.io/badge/SIP-030d1a?style=flat-square&logoColor=00bfff)
 ![WebRTC](https://img.shields.io/badge/WebRTC-030d1a?style=flat-square&logo=webrtc&logoColor=00eeff)
-![Kamailio](https://img.shields.io/badge/Kamailio-1a0505?style=flat-square&logoColor=ff6060)
 ![Twilio](https://img.shields.io/badge/Twilio-1a0505?style=flat-square&logo=twilio&logoColor=ff6060)
 ![OpenSIPS](https://img.shields.io/badge/OpenSIPS-030d1a?style=flat-square&logoColor=00bfff)
 
