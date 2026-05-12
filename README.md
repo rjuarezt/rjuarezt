@@ -16,7 +16,7 @@
 
 </div>
 
-## Herramientas De Tecnologia
+## Herramientas y Tecnologias
 
 <div align="center">
   
@@ -33,13 +33,6 @@
 ![Docker](https://img.shields.io/badge/Docker-020e10?style=flat-square&logo=docker&logoColor=00bfff)
 ![Git](https://img.shields.io/badge/Git-0a0800?style=flat-square&logo=git&logoColor=ffcc00)
 ![SSH](https://img.shields.io/badge/SSH-030d1a?style=flat-square&logo=openssh&logoColor=00eeff)
-
-</div>
-
-## Herramientas
-
-<div align="center">
-
 ![VS Code](https://img.shields.io/badge/VS_Code-030d1a?style=flat-square&logo=visual-studio-code&logoColor=00bfff)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-0a051a?style=flat-square&logo=visual-studio&logoColor=a78bfa)
 ![Figma](https://img.shields.io/badge/Figma-0a051a?style=flat-square&logo=figma&logoColor=a78bfa)
