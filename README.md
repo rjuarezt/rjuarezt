@@ -5,7 +5,9 @@
 <!-- AVATAR + NOMBRE -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Rodolfo+Juarez+%F0%9F%90%97;Full+Stack+Developer;VoIP+%7C+Asterisk+%7C+Kamailio;Linux+SysAdmin;Modo+Inosuke%3A+ACTIVO+%E2%9A%94%EF%B8%8F" alt="Typing SVG"/>
+
 </div>
+
 <br/>
 <!-- BIO BADGES -->
 <div align="center">
@@ -15,9 +17,12 @@
 ![C%23/NODE/JS](https://img.shields.io/badge/C%23%20%2F%20NODE%20%2F%20JS-%23030d1a.svg?style=for-the-badge&logoColor=00eeff)
 ![VOIP](https://img.shields.io/badge/VOIP-%23030d1a.svg?style=for-the-badge&logoColor=00eeff)
 ![LINUX](https://img.shields.io/badge/LINUX-%23030d1a.svg?style=for-the-badge&logoColor=00eeff)
+
 </div>
+
 ---
 ## Bases de Datos
+
 <div align="center">
 ![Supabase](https://img.shields.io/badge/Supabase-020e0a?style=flat-square&logo=supabase&logoColor=00eeff)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-030d1a?style=flat-square&logo=postgresql&logoColor=00bfff)
@@ -26,7 +31,9 @@
 ![Redis](https://img.shields.io/badge/Redis-1a0505?style=flat-square&logo=redis&logoColor=ff6060)
 
 </div>
+
 ## Telefonía & VoIP
+
 <div align="center">
 
 ![Asterisk](https://img.shields.io/badge/Asterisk-1a0505?style=flat-square&logo=asterisk&logoColor=ff6060)
@@ -39,7 +46,9 @@
 ![OpenSIPS](https://img.shields.io/badge/OpenSIPS-030d1a?style=flat-square&logoColor=00bfff)
 
 </div>
+
 ## Linux & DevOps
+
 <div align="center">
 
 ![Linux](https://img.shields.io/badge/Linux-030d1a?style=flat-square&logo=linux&logoColor=00eeff)
@@ -53,7 +62,9 @@
 ![SSH](https://img.shields.io/badge/SSH-030d1a?style=flat-square&logo=openssh&logoColor=00eeff)
 
 </div>
+
 ## Herramientas
+
 <div align="center">
 
 ![VS Code](https://img.shields.io/badge/VS_Code-030d1a?style=flat-square&logo=visual-studio-code&logoColor=00bfff)
@@ -64,14 +75,18 @@
 ![Canva](https://img.shields.io/badge/Canva-020e10?style=flat-square&logo=canva&logoColor=00eeff)
 
 </div>
+
 ## 🐗 Contacto
+
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-030d1a?style=for-the-badge&logo=linkedin&logoColor=00bfff)](https://linkedin.com/in/rjuarezt)
 [![Gmail](https://img.shields.io/badge/Gmail-1a0505?style=for-the-badge&logo=gmail&logoColor=ff6060)](mailto:rodolfojjuareztizon@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=00eeff)](https://github.com/rjuarezt)
 </div>
+
 <!-- FOOTER WAVE -->
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,50:0a3060,100:030d1a&height=100&section=footer" width="100%"/>
 </div>
