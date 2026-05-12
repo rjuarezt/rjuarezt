@@ -21,7 +21,7 @@
 
 ---
 
-## HERRAMIENTA DE TECNOLOGIA
+## Herramientas De Tecnologia
 
 <div align="center">
   
