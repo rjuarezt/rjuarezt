@@ -36,34 +36,6 @@
 
 </div>
 
-## Frontend
-
-<div align="center">
-
-![Vue.js](https://img.shields.io/badge/Vue.js-030d1a?style=flat-square&logo=vue.js&logoColor=00eeff)
-![Nuxt](https://img.shields.io/badge/Nuxt-030d1a?style=flat-square&logo=nuxt.js&logoColor=00eeff)
-![React](https://img.shields.io/badge/React-030d1a?style=flat-square&logo=react&logoColor=00bfff)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0f00?style=flat-square&logo=javascript&logoColor=ffcc00)
-![HTML5](https://img.shields.io/badge/HTML5-1a0500?style=flat-square&logo=html5&logoColor=ff6a00)
-![CSS3](https://img.shields.io/badge/CSS3-030d1a?style=flat-square&logo=css3&logoColor=00bfff)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-020e10?style=flat-square&logo=tailwind-css&logoColor=00eeff)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0a051a?style=flat-square&logo=bootstrap&logoColor=a78bfa)
-![Vite](https://img.shields.io/badge/Vite-07090f?style=flat-square&logo=vite&logoColor=00bfff)
-
-</div>
-
-## Backend
-
-<div align="center">
-
-![Node.js](https://img.shields.io/badge/Node.js-030d1a?style=flat-square&logo=node.js&logoColor=00eeff)
-![Express](https://img.shields.io/badge/Express.js-030d1a?style=flat-square&logo=express&logoColor=00bfff)
-![C#](https://img.shields.io/badge/C%23-0a051a?style=flat-square&logo=c-sharp&logoColor=a78bfa)
-![.NET](https://img.shields.io/badge/.NET-0a051a?style=flat-square&logo=dotnet&logoColor=a78bfa)
-![REST API](https://img.shields.io/badge/REST_API-030d1a?style=flat-square&logoColor=00eeff)
-
-</div>
-
 ## Telefonía & VoIP
 
 <div align="center">
