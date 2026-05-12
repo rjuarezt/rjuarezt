@@ -12,15 +12,13 @@
 
 <!-- BIO BADGES -->
 <div align="center">
-  
+
 ![VUE/NUXT](https://img.shields.io/badge/VUE%20%2F%20NUXT-%23030d1a.svg?style=for-the-badge&logoColor=00eeff)
 ![VOIP](https://img.shields.io/badge/VOIP-%23030d1a.svg?style=for-the-badge&logoColor=00eeff)
 ![LINUX](https://img.shields.io/badge/LINUX-%23030d1a.svg?style=for-the-badge&logoColor=00eeff)
 
 </div>
-
 ---
-
 ## Herramientas De Tecnologia
 
 <div align="center">
@@ -33,21 +31,12 @@
 ![WebRTC](https://img.shields.io/badge/WebRTC-030d1a?style=flat-square&logo=webrtc&logoColor=00eeff)
 ![Twilio](https://img.shields.io/badge/Twilio-1a0505?style=flat-square&logo=twilio&logoColor=ff6060)
 ![OpenSIPS](https://img.shields.io/badge/OpenSIPS-030d1a?style=flat-square&logoColor=00bfff)
-
-</div>
-
-## Linux & DevOps
-
-<div align="center">
-
 ![Linux](https://img.shields.io/badge/Linux-030d1a?style=flat-square&logo=linux&logoColor=00eeff)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-030d1a?style=flat-square&logo=ubuntu&logoColor=ff8040)
 ![Debian](https://img.shields.io/badge/Debian-030d1a?style=flat-square&logo=debian&logoColor=ff6060)
 ![Bash](https://img.shields.io/badge/Bash-030d1a?style=flat-square&logo=gnu-bash&logoColor=00eeff)
 ![Docker](https://img.shields.io/badge/Docker-020e10?style=flat-square&logo=docker&logoColor=00bfff)
-![Nginx](https://img.shields.io/badge/Nginx-020e10?style=flat-square&logo=nginx&logoColor=00cc88)
 ![Git](https://img.shields.io/badge/Git-0a0800?style=flat-square&logo=git&logoColor=ffcc00)
-![Vercel](https://img.shields.io/badge/Vercel-0a0a0a?style=flat-square&logo=vercel&logoColor=ffffff)
 ![SSH](https://img.shields.io/badge/SSH-030d1a?style=flat-square&logo=openssh&logoColor=00eeff)
 
 </div>
@@ -71,7 +60,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-030d1a?style=for-the-badge&logo=linkedin&logoColor=00bfff)](https://linkedin.com/in/rjuarezt)
 [![Gmail](https://img.shields.io/badge/Gmail-1a0505?style=for-the-badge&logo=gmail&logoColor=ff6060)](mailto:rodolfojjuareztizon@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=00eeff)](https://github.com/rjuarezt)
 </div>
 
 <!-- FOOTER WAVE -->
