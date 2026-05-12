@@ -6,7 +6,7 @@
 
 <!-- AVATAR + NOMBRE -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Rodolfo+Juarez+%F0%9F%90%97;Full+Stack+Developer;VoIP+%7C+Asterisk+%7C+Kamailio;Linux+SysAdmin;Modo+Inosuke%3A+ACTIVO+%E2%9A%94%EF%B8%8F" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Rodolfo+Juarez+%F0%9F%90%97;VoIP+%7C+Asterisk+%7C;Linux+SysAdmin;Modo+Inosuke%3A+ACTIVO+%E2%9A%94%EF%B8%8F" alt="Typing SVG"/>
 
 </div>
 
