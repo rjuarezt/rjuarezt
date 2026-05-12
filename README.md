@@ -20,13 +20,11 @@
 
 <div align="center">
   
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-030d1a?style=flat-square&logo=postgresql&logoColor=00bfff)
 ![MySQL](https://img.shields.io/badge/MySQL-0a0800?style=flat-square&logo=mysql&logoColor=ffcc00)
 ![Asterisk](https://img.shields.io/badge/Asterisk-1a0505?style=flat-square&logo=asterisk&logoColor=ff6060)
 ![ViciDial](https://img.shields.io/badge/ViciDial-1a0505?style=flat-square&logoColor=ff6060)
 ![SIP](https://img.shields.io/badge/SIP-030d1a?style=flat-square&logoColor=00bfff)
 ![WebRTC](https://img.shields.io/badge/WebRTC-030d1a?style=flat-square&logo=webrtc&logoColor=00eeff)
-![Twilio](https://img.shields.io/badge/Twilio-1a0505?style=flat-square&logo=twilio&logoColor=ff6060)
 ![OpenSIPS](https://img.shields.io/badge/OpenSIPS-030d1a?style=flat-square&logoColor=00bfff)
 ![Linux](https://img.shields.io/badge/Linux-030d1a?style=flat-square&logo=linux&logoColor=00eeff)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-030d1a?style=flat-square&logo=ubuntu&logoColor=ff8040)
