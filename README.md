@@ -24,6 +24,7 @@
 </div>
 
 ---
+
 ## Bases de Datos
 
 <div align="center">
