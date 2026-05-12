@@ -14,6 +14,7 @@
 
 <!-- BIO BADGES -->
 <div align="center">
+  
 ![FRONTEND](https://img.shields.io/badge/FRONTEND-%23030d1a.svg?style=for-the-badge&logoColor=00eeff)
 ![VUE/NUXT](https://img.shields.io/badge/VUE%20%2F%20NUXT-%23030d1a.svg?style=for-the-badge&logoColor=00eeff)
 ![BACKEND](https://img.shields.io/badge/BACKEND-%23030d1a.svg?style=for-the-badge&logoColor=00eeff)
@@ -28,6 +29,7 @@
 ## Bases de Datos
 
 <div align="center">
+  
 ![Supabase](https://img.shields.io/badge/Supabase-020e0a?style=flat-square&logo=supabase&logoColor=00eeff)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-030d1a?style=flat-square&logo=postgresql&logoColor=00bfff)
 ![MySQL](https://img.shields.io/badge/MySQL-0a0800?style=flat-square&logo=mysql&logoColor=ffcc00)
