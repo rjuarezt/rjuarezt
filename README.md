@@ -15,10 +15,7 @@
 <!-- BIO BADGES -->
 <div align="center">
   
-![FRONTEND](https://img.shields.io/badge/FRONTEND-%23030d1a.svg?style=for-the-badge&logoColor=00eeff)
 ![VUE/NUXT](https://img.shields.io/badge/VUE%20%2F%20NUXT-%23030d1a.svg?style=for-the-badge&logoColor=00eeff)
-![BACKEND](https://img.shields.io/badge/BACKEND-%23030d1a.svg?style=for-the-badge&logoColor=00eeff)
-![C%23/NODE/JS](https://img.shields.io/badge/C%23%20%2F%20NODE%20%2F%20JS-%23030d1a.svg?style=for-the-badge&logoColor=00eeff)
 ![VOIP](https://img.shields.io/badge/VOIP-%23030d1a.svg?style=for-the-badge&logoColor=00eeff)
 ![LINUX](https://img.shields.io/badge/LINUX-%23030d1a.svg?style=for-the-badge&logoColor=00eeff)
 
