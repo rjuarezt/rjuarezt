@@ -9,19 +9,6 @@
 <p><i>Bash scripting + aprendiendo Python</i></p>
 
 </div>
-``
-
-<!-- DECORACIÓN TIPO STICKERS -->
-<img src="https://skillicons.dev/icons?i=linux,bash,python,docker&perline=6"/>
-
-<p><b>Linux • Asterisk • Soporte IT</b></p>
-
-<p><i>Scripts en Bash + aprendiendo Python</i></p>
-
-<p>🐧 ☎️ 🛠️ 🐗</p>
-
-</div>
-<div align="center">
 
 ---
 
