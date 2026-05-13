@@ -16,9 +16,6 @@
 
 </div>
 
-## Herramientas y Tecnologias
-<div align="center">
-
 ---
 
 ### ⚙️ Herramientas & Tecnologías
