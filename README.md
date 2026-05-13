@@ -1,21 +1,34 @@
 <!-- BANNER - generado en https://capsule-render.vercel.app -->
-<!-- HEADER RETRO -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:031525,100:082f49&height=130&section=header&text=rjuarezt&fontSize=42&fontColor=00d9ff&font=Fira%20Code&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Dev%20|%20VoIP%20|%20Linux%20|%20Anime&descAlignY=63&descSize=16&descColor=7dd3fc"/>
+<table>
+<tr>
+<td width="140">
 
-</div>
+<img src="https://media.tenor.com/x8v1oNUOmg4AAAAd/anime-pixel-art.gif" width="110"/>
 
-<!-- ICONOS -->
-<div align="center">
+</td>
 
-<img src="https://skillicons.dev/icons?i=linux,docker,bash,git,mysql,vscode&theme=dark" />
+<td align="center">
 
-<br><br>
+# `rjuarezt`
 
-<img src="https://img.shields.io/badge/Asterisk-0f172a?style=for-the-badge&logo=asterisk&logoColor=00d9ff"/>
-<img src="https://img.shields.io/badge/ViciDial-0f172a?style=for-the-badge&logoColor=00d9ff"/>
-<img src="https://img.shields.io/badge/SIP-0f172a?style=for-the-badge&logoColor=00d9ff"/>
+### Full Stack Dev | VoIP | Linux | Anime
+
+`• • • • • • • • • •`
+
+</td>
+
+<td width="220" align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,bash,docker&theme=dark" /><br>
+
+<img src="https://img.shields.io/badge/Asterisk-08111f?style=for-the-badge&logoColor=00d9ff"/>
+<img src="https://img.shields.io/badge/SIP-08111f?style=for-the-badge&logoColor=00d9ff"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
