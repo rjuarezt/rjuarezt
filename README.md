@@ -1,33 +1,10 @@
+<!-- BANNER - generado en https://capsule-render.vercel.app -->
 <div align="center">
-
-  <table style="background-color: #0A1428; border: 4px solid #00E5FF; border-radius: 15px; width: 100%; max-width: 850px; margin: 20px auto;">
-    <tr>
-      <!-- Izquierda: Pixel Samurai -->
-      <td style="width: 170px; text-align: center; padding: 20px 10px;">
-        <img src="https://raw.githubusercontent.com/rjuarezt/rjuarezt/main/assets/pixel-samurai.png" 
-             width="145" alt="Pixel Samurai"/>
-      </td>
-      
-      <!-- Centro: Nombre y descripción -->
-      <td style="text-align: center; padding: 20px 10px; vertical-align: middle;">
-        <h1 style="margin: 0; font-size: 48px; color: #00E5FF; font-family: monospace; letter-spacing: 3px;">
-          rjuarezt
-        </h1>
-        <p style="margin: 12px 0 0 0; font-size: 20px; color: #ffffff;">
-          ⚔️ Full Stack Dev | VoIP | Linux | Anime ⚔️
-        </p>
-      </td>
-      
-      <!-- Derecha: Iconos -->
-      <td style="width: 190px; text-align: center; padding: 20px 15px; vertical-align: top;">
-        <img src="https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white" height="38" style="margin:3px 0;"/><br>
-        <img src="https://img.shields.io/badge/Asterisk-EF3E2E?logo=asterisk&logoColor=white" height="38" style="margin:3px 0;"/><br>
-        <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white" height="38" style="margin:3px 0;"/><br>
-        <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="38" style="margin:3px 0;"/><br>
-        <img src="https://img.shields.io/badge/SIP-FF6600?logoColor=white" height="38" style="margin:3px 0;"/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030d1a,50:0a3060,100:00bfff&height=180&section=header&text=rjuarezt&fontSize=50&fontColor=00eeff&fontAlignY=38&desc=Full%20Stack%20Dev%20%7C%20VoIP%20%7C%20Linux%20%7C%20Anime%20%F0%9F%90%97&descSize=16&descAlignY=60&descColor=7ad8ff" width="100%"/>
+</div>
+<!-- AVATAR + NOMBRE -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Rodolfo+Juarez+%F0%9F%90%97;VoIP+%7C+Asterisk+%7C;Linux+SysAdmin;Modo+Inosuke%3A+ACTIVO+%E2%9A%94%EF%B8%8F" alt="Typing SVG"/>
 
 </div>
 <!-- BIO BADGES -> -> -> NO TOCAR-->
