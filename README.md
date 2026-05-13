@@ -16,6 +16,10 @@
 
 </div>
 
+<div align="center">
+
+---
+
 ### ⚙️ Herramientas & Tecnologías
 
 ![MySQL](https://img.shields.io/badge/MySQL-0a0800?style=flat-square&logo=mysql&logoColor=ffcc00)
@@ -41,7 +45,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1b2a?style=flat-square&logo=linkedin&logoColor=00bfff)](https://linkedin.com/in/rjuarezt)
 [![Gmail](https://img.shields.io/badge/Gmail-1a0505?style=flat-square&logo=gmail&logoColor=ff6060)](mailto:rodolfojjuareztizon@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-111?style=flat-square&logo=github&logoColor=fff)](https://github.com/rjuarezt)
-
 </div>
 <!-- FOOTER WAVE -->
 <div align="center">
