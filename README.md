@@ -1,7 +1,7 @@
 <!-- BANNER - generado en https://capsule-render.vercel.app -->
 <div align="center">
 
-<img src="./banner_inosuke_github.svg" />
+<img src="./banner.svg" />
 
 <br>
 
