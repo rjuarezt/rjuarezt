@@ -1,13 +1,11 @@
-<!-- BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A2540&height=180&section=header&text=rjuarezt&fontSize=70&fontColor=00E5FF&animation=fadeIn&desc=Full%20Stack%20Dev%20%7C%20VoIP%20%7C%20Linux%20%7C%20Anime&descAlign=50&descSize=18" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0A2540&height=220&section=header&text=rjuarezt&fontSize=65&fontColor=00F0FF&animation=twinkling&desc=Full%20Stack%20Dev%20%7C%20VoIP%20%7C%20Linux%20%7C%20Anime&descAlign=62&descSize=20" alt="rjuarezt" />
   
-  <!-- Pixel Art Character -->
-  <img src="https://raw.githubusercontent.com/rjuarezt/rjuarezt/main/assets/fox-samurai.png" width="120" alt="Pixel Fox" />
-  
-  <h3>⚔️ Full Stack Dev | VoIP | Linux | Anime ⚔️</h3>
+  <!-- Tu personaje pixel art -->
+  <img src="https://raw.githubusercontent.com/tuusuario/tuusuario/main/assets/pixel-fox.png" width="140" style="margin-top: -30px;" alt="Pixel Samurai" />
 </div>
 
+<h3 align="center">⚔️ Full Stack Dev | VoIP | Linux | Anime ⚔️</h3>
 <!-- BIO BADGES -> -> -> NO TOCAR-->
 <div align="center">
   
