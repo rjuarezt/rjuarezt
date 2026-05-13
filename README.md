@@ -1,9 +1,15 @@
 <!-- BANNER - generado en https://capsule-render.vercel.app -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0f172a&height=110&section=header&text=Rodolfo%20Juarez&fontSize=28&fontColor=38bdf8"/>
+<img src="./banner_inosuke_github.svg" />
 
 <br>
+
+<p><b>🐧 Linux • ☎️ Asterisk • 🛠️ Soporte IT</b></p>
+<p><i>Bash scripting + aprendiendo Python</i></p>
+
+</div>
+``
 
 <!-- DECORACIÓN TIPO STICKERS -->
 <img src="https://skillicons.dev/icons?i=linux,bash,python,docker&perline=6"/>
