@@ -1,23 +1,25 @@
 <!-- BANNER - generado en https://capsule-render.vercel.app -->
-<!-- BANNER MODERNO -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,30:0b1220,100:0f172a&height=240&section=header&text=rjuarezt&fontSize=52&fontColor=00e5ff&font=Fira%20Code&fontAlignY=30&animation=fadeIn"/>
+<!-- MINI BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0f172a&height=120&section=header&text=rjuarezt&fontSize=32&fontColor=38bdf8&animation=fadeIn"/>
 
-<br>
+<!-- SUBTITULO -->
+<p><b>Full Stack • VoIP Engineer • Linux 🐧</b></p>
 
-### 🧠 Full Stack | ☎️ VoIP Engineer | 🐧 Linux | 🐗 Anime Mode
+<!-- ICONOS LIMPIOS -->
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,php,js,python,docker,bash" height="30"/>
+</p>
 
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-0b1220?style=for-the-badge&logo=linux&logoColor=facc15"/>
-  <img src="https://img.shields.io/badge/Asterisk-0b1220?style=for-the-badge&logo=asterisk&logoColor=ff4d6d"/>
-  <img src="https://img.shields.io/badge/Inosuke-0b1220?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/VoIP-0b1220?style=for-the-badge&logoColor=00e5ff"/>
+<!-- BADGES MINIMALES -->
+<p>
+  <img src="https://img.shields.io/badge/Asterisk-0f172a?style=flat&logo=asterisk&logoColor=ff4d6d"/>
+  <img src="https://img.shields.io/badge/VoIP-0f172a?style=flat&logoColor=38bdf8"/>
 </p>
 
 </div>
+
 <!-- BIO BADGES -> -> -> NO TOCAR-->
 <div align="center">
   
