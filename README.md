@@ -1,33 +1,29 @@
 <div align="center">
-  <!-- Fondo oscuro estilo banner -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A1F3D&height=200&width=1000&section=header" 
-       style="position:absolute; z-index:-1; border-radius:10px;" alt="bg"/>
-  
-  <table>
+  <table style="background: #0A1428; border: 3px solid #00E5FF; border-radius: 12px; width: 100%; max-width: 820px; margin: 20px auto; padding: 15px;">
     <tr>
-      <!-- Personaje Pixel Art Izquierda -->
-      <td>
+      <!-- Izquierda: Personaje -->
+      <td style="width: 160px; text-align: center; vertical-align: middle; padding: 10px;">
         <img src="https://raw.githubusercontent.com/rjuarezt/rjuarezt/main/assets/pixel-fox.png" 
-             width="140" alt="Pixel Fox Samurai"/>
+             width="135" alt="Pixel Samurai"/>
       </td>
       
-      <!-- Texto Central -->
-      <td>
-        <h1 style="margin:0; color:#00E5FF; font-size:52px; font-family:monospace;">
+      <!-- Centro: Nombre y descripción -->
+      <td style="text-align: center; vertical-align: middle; padding: 10px;">
+        <h1 style="margin: 0; font-size: 52px; color: #00E5FF; font-family: monospace; letter-spacing: 2px;">
           rjuarezt
         </h1>
-        <h3 style="margin:8px 0 0 0; color:#FFFFFF;">
-          ⚔️ Full Stack Dev | VoIP | Linux | Anime ⚔️
-        </h3>
+        <p style="margin: 8px 0 0 0; font-size: 19px; color: #FFFFFF;">
+          Full Stack Dev | VoIP | Linux | Anime
+        </p>
       </td>
       
-      <!-- Iconos Derecha -->
-      <td>
-        <img src="https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white&style=flat" height="38"/><br>
-        <img src="https://img.shields.io/badge/Asterisk-EF3E2E?logo=asterisk&logoColor=white&style=flat" height="38"/><br>
-        <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=flat" height="38"/><br>
-        <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat" height="38"/><br>
-        <img src="https://img.shields.io/badge/SIP-FF6B00?logo=sip&logoColor=white&style=flat" height="38"/>
+      <!-- Derecha: Iconos -->
+      <td style="width: 180px; text-align: center; vertical-align: top; padding: 15px 10px 10px 10px;">
+        <img src="https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white" height="36" style="margin:2px"/><br>
+        <img src="https://img.shields.io/badge/Asterisk-EF3E2E?logo=asterisk&logoColor=white" height="36" style="margin:2px"/><br>
+        <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white" height="36" style="margin:2px"/><br>
+        <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="36" style="margin:2px"/><br>
+        <img src="https://img.shields.io/badge/SIP-FF6600?logoColor=white" height="36" style="margin:2px"/>
       </td>
     </tr>
   </table>
