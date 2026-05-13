@@ -1,18 +1,8 @@
 <!-- BANNER - generado en https://capsule-render.vercel.app -->
-<!-- BANNER CYBER -->
+<!-- BANNER CYBER CON ICONOS -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,40:031525,100:082f49&height=220&section=header&text=rjuarezt&fontSize=52&fontColor=00e5ff&font=Fira%20Code&animation=fadeIn&fontAlignY=35&desc=VoIP%20|%20Linux%20|%20Anime%20🐗&descSize=18&descAlignY=55&descColor=7dd3fc"/>
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=linux,bash,docker,git,mysql,vscode&theme=dark" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Asterisk-08111f?style=for-the-badge&logoColor=00d9ff"/>
-<img src="https://img.shields.io/badge/SIP-08111f?style=for-the-badge&logoColor=00d9ff"/>
-<img src="https://img.shields.io/badge/ViciDial-08111f?style=for-the-badge&logoColor=00d9ff"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,40:031525,100:082f49&height=220&section=header&text=rjuarezt&fontSize=50&fontColor=00e5ff&font=Fira%20Code&fontAlignY=35&desc=🐧%20Linux%20%20%20☎️%20Asterisk%20%20%20🐗%20Inosuke%20%20%20💻%20VoIP&descSize=18&descAlignY=58&descColor=7dd3fc&animation=fadeIn"/>
 
 </div>
 <!-- AVATAR + NOMBRE -->
