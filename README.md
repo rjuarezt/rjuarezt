@@ -17,7 +17,6 @@
 </div>
 
 ## Herramientas y Tecnologias
-
 <div align="center">
   
 ![MySQL](https://img.shields.io/badge/MySQL-0a0800?style=flat-square&logo=mysql&logoColor=ffcc00)
@@ -34,24 +33,16 @@
 ![Git](https://img.shields.io/badge/Git-0a0800?style=flat-square&logo=git&logoColor=ffcc00)
 ![SSH](https://img.shields.io/badge/SSH-030d1a?style=flat-square&logo=openssh&logoColor=00eeff)
 ![VS Code](https://img.shields.io/badge/VS_Code-030d1a?style=flat-square&logo=visual-studio-code&logoColor=00bfff)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-0a051a?style=flat-square&logo=visual-studio&logoColor=a78bfa)
-![Figma](https://img.shields.io/badge/Figma-0a051a?style=flat-square&logo=figma&logoColor=a78bfa)
-![Postman](https://img.shields.io/badge/Postman-1a0800?style=flat-square&logo=postman&logoColor=ff8040)
 ![Obsidian](https://img.shields.io/badge/Obsidian-0a051a?style=flat-square&logo=obsidian&logoColor=a78bfa)
-![Canva](https://img.shields.io/badge/Canva-020e10?style=flat-square&logo=canva&logoColor=00eeff)
-
 </div>
 
 ## 🐗 Contacto
-
 <div align="center">
-
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-030d1a?style=for-the-badge&logo=linkedin&logoColor=00bfff)](https://linkedin.com/in/rjuarezt)
 [![Gmail](https://img.shields.io/badge/Gmail-1a0505?style=for-the-badge&logo=gmail&logoColor=ff6060)](mailto:rodolfojjuareztizon@gmail.com)
 </div>
-
 <!-- FOOTER WAVE -->
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,50:0a3060,100:030d1a&height=100&section=footer" width="100%"/>
 </div>
