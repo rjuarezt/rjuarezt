@@ -1,28 +1,18 @@
 <!-- BANNER - generado en https://capsule-render.vercel.app -->
 <div align="center">
 
-<!-- MINI BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0f172a&height=120&section=header&text=Rodolfo%20Juarez&fontSize=30&fontColor=38bdf8&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0f172a&height=110&section=header&text=Rodolfo%20Juarez&fontSize=28&fontColor=38bdf8"/>
 
-<!-- SUBTÍTULO REAL -->
-<p><b>🐧 Linux • ☎️ Asterisk • 🛠️ Soporte Informático</b></p>
+<br>
 
-<p><i>Automation con Bash & Python (learning...)</i></p>
+<!-- DECORACIÓN TIPO STICKERS -->
+<img src="https://skillicons.dev/icons?i=linux,bash,python,docker&perline=6"/>
 
-<!-- ICONOS -->
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,python" />
-</p>
+<p><b>Linux • Asterisk • Soporte IT</b></p>
 
-<!-- BADGES LIMPIOS -->
-<p>
-  <img src="https://img.shields.io/badge/Asterisk-0f172a?style=flat&logo=asterisk&logoColor=ff4d6d" />
-  <img src="https://img.shields.io/badge/Linux_Admin-0f172a?style=flat&logo=linux&logoColor=facc15" />
-  <img src="https://img.shields.io/badge/VoIP-0f172a?style=flat&logoColor=38bdf8" />
-</p>
+<p><i>Scripts en Bash + aprendiendo Python</i></p>
 
-<!-- TOQUE PERSONAL -->
-<p>🐗 Inosuke Mode</p>
+<p>🐧 ☎️ 🛠️ 🐗</p>
 
 </div>
 
