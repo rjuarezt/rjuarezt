@@ -1,40 +1,10 @@
 <!-- BANNER - generado en https://capsule-render.vercel.app -->
 <div align="center">
-
-<table>
-<tr>
-
-<td align="center" width="180">
-
-<img src="https://i.imgur.com/8Km9tLL.png" width="110">
-
-</td>
-
-<td align="center" width="420">
-
-# `rjuarezt`
-
-### Full Stack Dev | VoIP | Linux | Anime
-
-`• • • • • • • • • •`
-
-</td>
-
-<td align="center" width="220">
-
-<img src="https://skillicons.dev/icons?i=linux,docker,bash&theme=dark" />
-
-<br>
-
-<img src="https://img.shields.io/badge/ASTERISK-08111f?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SIP-08111f?style=for-the-badge"/>
-
-</td>
-
-</tr>
-</table>
-
-</div>
+  
+  <!-- TÍTULO PRINCIPAL -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FF6600&center=true&vCenter=true&width=500&lines=🐗+rjuarezent+🐗" alt="Nombre" />
+  
+  <h3>⚔️ Full Stack Dev | VoIP | Linux | Anime ⚔️</h3>
 
 <!-- BIO BADGES -> -> -> NO TOCAR-->
 <div align="center">
