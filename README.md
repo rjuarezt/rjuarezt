@@ -2,21 +2,27 @@
 <div align="center">
 
 <!-- MINI BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0f172a&height=120&section=header&text=rjuarezt&fontSize=32&fontColor=38bdf8&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0f172a&height=120&section=header&text=Rodolfo%20Juarez&fontSize=30&fontColor=38bdf8&animation=fadeIn"/>
 
-<!-- SUBTITULO -->
-<p><b>Full Stack • VoIP Engineer • Linux 🐧</b></p>
+<!-- SUBTÍTULO REAL -->
+<p><b>🐧 Linux • ☎️ Asterisk • 🛠️ Soporte Informático</b></p>
 
-<!-- ICONOS LIMPIOS -->
+<p><i>Automation con Bash & Python (learning...)</i></p>
+
+<!-- ICONOS -->
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,php,js,python,docker,bash" height="30"/>
+  <img src="https://skillicons.dev/icons?i=linux,bash,python" />
 </p>
 
-<!-- BADGES MINIMALES -->
+<!-- BADGES LIMPIOS -->
 <p>
-  <img src="https://img.shields.io/badge/Asterisk-0f172a?style=flat&logo=asterisk&logoColor=ff4d6d"/>
-  <img src="https://img.shields.io/badge/VoIP-0f172a?style=flat&logoColor=38bdf8"/>
+  <img src="https://img.shields.io/badge/Asterisk-0f172a?style=flat&logo=asterisk&logoColor=ff4d6d" />
+  <img src="https://img.shields.io/badge/Linux_Admin-0f172a?style=flat&logo=linux&logoColor=facc15" />
+  <img src="https://img.shields.io/badge/VoIP-0f172a?style=flat&logoColor=38bdf8" />
 </p>
+
+<!-- TOQUE PERSONAL -->
+<p>🐗 Inosuke Mode</p>
 
 </div>
 
