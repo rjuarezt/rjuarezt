@@ -1,11 +1,21 @@
 <!-- BANNER - generado en https://capsule-render.vercel.app -->
-<!-- BANNER CYBER CON ICONOS -->
+<!-- BANNER MODERNO -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,40:031525,100:082f49&height=220&section=header&text=rjuarezt&fontSize=50&fontColor=00e5ff&font=Fira%20Code&fontAlignY=35&desc=🐧%20Linux%20%20%20☎️%20Asterisk%20%20%20🐗%20Inosuke%20%20%20💻%20VoIP&descSize=18&descAlignY=58&descColor=7dd3fc&animation=fadeIn"/>
-</div>
-<!-- AVATAR + NOMBRE -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Rodolfo+Juarez+%F0%9F%90%97;VoIP+%7C+Asterisk+%7C;Linux+SysAdmin;Modo+Inosuke%3A+ACTIVO+%E2%9A%94%EF%B8%8F" alt="Typing SVG"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,30:0b1220,100:0f172a&height=240&section=header&text=rjuarezt&fontSize=52&fontColor=00e5ff&font=Fira%20Code&fontAlignY=30&animation=fadeIn"/>
+
+<br>
+
+### 🧠 Full Stack | ☎️ VoIP Engineer | 🐧 Linux | 🐗 Anime Mode
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-0b1220?style=for-the-badge&logo=linux&logoColor=facc15"/>
+  <img src="https://img.shields.io/badge/Asterisk-0b1220?style=for-the-badge&logo=asterisk&logoColor=ff4d6d"/>
+  <img src="https://img.shields.io/badge/Inosuke-0b1220?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VoIP-0b1220?style=for-the-badge&logoColor=00e5ff"/>
+</p>
 
 </div>
 <!-- BIO BADGES -> -> -> NO TOCAR-->
