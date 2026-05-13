@@ -1,6 +1,6 @@
 <!-- BANNER - generado en https://capsule-render.vercel.app -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030d1a,50:0a3060,100:00bfff&height=180&section=header&text=rjuarezt&fontSize=50&fontColor=00eeff&fontAlignY=38&desc=Full%20Stack%20Dev%20%7C%20VoIP%20%7C%20Linux%20%7C%20Anime%20%F0%9F%90%97&descSize=16&descAlignY=60&descColor=7ad8ff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030d1a,50:0a3060,100:00bfff&height=180&section=header&text=rjuarezt&fontSize=50&fontColor=00eeff&fontAlignY=38&desc=VoIP%20%7C%20Linux%20%7C%20Anime%20%F0%9F%90%97&descSize=16&descAlignY=60&descColor=7ad8ff" width="100%"/>
 </div>
 <!-- AVATAR + NOMBRE -->
 <div align="center">
