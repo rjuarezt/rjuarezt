@@ -3,13 +3,14 @@
 
 <table>
 <tr>
-<td width="140">
 
-<img src="https://media.tenor.com/x8v1oNUOmg4AAAAd/anime-pixel-art.gif" width="110"/>
+<td align="center" width="180">
+
+<img src="https://i.imgur.com/8Km9tLL.png" width="110">
 
 </td>
 
-<td align="center">
+<td align="center" width="420">
 
 # `rjuarezt`
 
@@ -19,20 +20,23 @@
 
 </td>
 
-<td width="220" align="center">
+<td align="center" width="220">
 
-<img src="https://skillicons.dev/icons?i=linux,bash,docker&theme=dark" /><br>
+<img src="https://skillicons.dev/icons?i=linux,docker,bash&theme=dark" />
 
-<img src="https://img.shields.io/badge/Asterisk-08111f?style=for-the-badge&logoColor=00d9ff"/>
-<img src="https://img.shields.io/badge/SIP-08111f?style=for-the-badge&logoColor=00d9ff"/>
+<br>
+
+<img src="https://img.shields.io/badge/ASTERISK-08111f?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SIP-08111f?style=for-the-badge"/>
 
 </td>
+
 </tr>
 </table>
 
 </div>
 
-<!-- BIO BADGES NO TOCAR-->
+<!-- BIO BADGES -> -> -> NO TOCAR-->
 <div align="center">
   
 ![VOIP](https://img.shields.io/badge/VOIP-%23030d1a.svg?style=for-the-badge&logoColor=00eeff)
