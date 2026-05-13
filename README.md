@@ -1,6 +1,19 @@
 <!-- BANNER - generado en https://capsule-render.vercel.app -->
+<!-- BANNER CYBER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030d1a,50:0a3060,100:00bfff&height=180&section=header&text=rjuarezt&fontSize=50&fontColor=00eeff&fontAlignY=38&desc=VoIP%20%7C%20Linux%20%7C%20Anime%20%F0%9F%90%97&descSize=16&descAlignY=60&descColor=7ad8ff" width="100%"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,40:031525,100:082f49&height=220&section=header&text=rjuarezt&fontSize=52&fontColor=00e5ff&font=Fira%20Code&animation=fadeIn&fontAlignY=35&desc=VoIP%20|%20Linux%20|%20Anime%20🐗&descSize=18&descAlignY=55&descColor=7dd3fc"/>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=linux,bash,docker,git,mysql,vscode&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Asterisk-08111f?style=for-the-badge&logoColor=00d9ff"/>
+<img src="https://img.shields.io/badge/SIP-08111f?style=for-the-badge&logoColor=00d9ff"/>
+<img src="https://img.shields.io/badge/ViciDial-08111f?style=for-the-badge&logoColor=00d9ff"/>
+
 </div>
 <!-- AVATAR + NOMBRE -->
 <div align="center">
