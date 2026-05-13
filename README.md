@@ -1,11 +1,37 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0A2540&height=220&section=header&text=rjuarezt&fontSize=65&fontColor=00F0FF&animation=twinkling&desc=Full%20Stack%20Dev%20%7C%20VoIP%20%7C%20Linux%20%7C%20Anime&descAlign=62&descSize=20" alt="rjuarezt" />
+  <!-- Fondo oscuro estilo banner -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A1F3D&height=200&width=1000&section=header" 
+       style="position:absolute; z-index:-1; border-radius:10px;" alt="bg"/>
   
-  <!-- Tu personaje pixel art -->
-  <img src="https://raw.githubusercontent.com/tuusuario/tuusuario/main/assets/pixel-fox.png" width="140" style="margin-top: -30px;" alt="Pixel Samurai" />
+  <table>
+    <tr>
+      <!-- Personaje Pixel Art Izquierda -->
+      <td>
+        <img src="https://raw.githubusercontent.com/rjuarezt/rjuarezt/main/assets/pixel-fox.png" 
+             width="140" alt="Pixel Fox Samurai"/>
+      </td>
+      
+      <!-- Texto Central -->
+      <td>
+        <h1 style="margin:0; color:#00E5FF; font-size:52px; font-family:monospace;">
+          rjuarezt
+        </h1>
+        <h3 style="margin:8px 0 0 0; color:#FFFFFF;">
+          ⚔️ Full Stack Dev | VoIP | Linux | Anime ⚔️
+        </h3>
+      </td>
+      
+      <!-- Iconos Derecha -->
+      <td>
+        <img src="https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white&style=flat" height="38"/><br>
+        <img src="https://img.shields.io/badge/Asterisk-EF3E2E?logo=asterisk&logoColor=white&style=flat" height="38"/><br>
+        <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=flat" height="38"/><br>
+        <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat" height="38"/><br>
+        <img src="https://img.shields.io/badge/SIP-FF6B00?logo=sip&logoColor=white&style=flat" height="38"/>
+      </td>
+    </tr>
+  </table>
 </div>
-
-<h3 align="center">⚔️ Full Stack Dev | VoIP | Linux | Anime ⚔️</h3>
 <!-- BIO BADGES -> -> -> NO TOCAR-->
 <div align="center">
   
