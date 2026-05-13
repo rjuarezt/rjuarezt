@@ -15,15 +15,6 @@
 <p>🐧 ☎️ 🛠️ 🐗</p>
 
 </div>
-
-<!-- BIO BADGES -> -> -> NO TOCAR-->
-<div align="center">
-  
-![VOIP](https://img.shields.io/badge/VOIP-%23030d1a.svg?style=for-the-badge&logoColor=00eeff)
-![LINUX](https://img.shields.io/badge/LINUX-%23030d1a.svg?style=for-the-badge&logoColor=00eeff)
-
-</div>
-
 <div align="center">
 
 ---
