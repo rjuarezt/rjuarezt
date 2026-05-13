@@ -12,6 +12,8 @@
 
 ---
 
+<div align="center">
+  
 ### ⚙️ Herramientas & Tecnologías
 
 ![MySQL](https://img.shields.io/badge/MySQL-0a0800?style=flat-square&logo=mysql&logoColor=ffcc00)
